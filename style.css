@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 20%;
+}
+
+.logo img{
+    width: 50%;
+}
+.navbar{
+    display: flex;
+
+}
+.navlist{
+    width: 50%;
+    background-color: yellow;
+
+}
+
+.navlist li{
+
+}
+
+.navlist li a{
+
+}
+
+.rightNav{
+    background-color: violet;
+    width: 50%;
+}
